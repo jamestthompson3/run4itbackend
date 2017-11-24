@@ -1,0 +1,11 @@
+{
+  "name": "run4it",
+  "version": "1.0.0",
+  "description": "running app for Junction 2017",
+  "main": "index.js",
+  "author": "taylor_thompson",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
+}
